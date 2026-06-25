@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports
+*.xlsx
+*.csv
+*.json
+
+# Generated folders
+Output/
+temp/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Environment
+.env
