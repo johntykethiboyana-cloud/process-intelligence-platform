@@ -1,0 +1,8 @@
+streamlit
+python-docx
+pandas
+numpy
+openpyxl
+rapidfuzz
+python-Levenshtein
+lxml
